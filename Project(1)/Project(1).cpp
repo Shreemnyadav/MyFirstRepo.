@@ -5,7 +5,7 @@
 
 int main()
 {
-	printf("Hello Shadow!");
+	printf("hello");
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
